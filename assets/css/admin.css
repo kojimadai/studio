@@ -1,0 +1,257 @@
+.customize-control {
+	margin-bottom: 5px !important;
+}
+.customize-control-radio {
+	padding: 0 !important;
+}
+
+
+
+#customize-control-front_main_visual_img:before,
+#customize-control-front_main_visual_img_2:before,
+#customize-control-front_main_visual_img_3:before,
+#customize-control-front_main_visual_img_4:before,
+#customize-control-front_main_visual_img_5:before,
+#customize-control-site_icon:before,
+#customize-control-cat_design:before,
+#customize-control-cat_color:before,
+#customize-control-tag_design:before,
+#customize-control-tag_design:before,
+#customize-control-tag_color:before,
+#customize-control-h2_type:before,
+#customize-control-heading_color:before,
+#customize-control-header_position_type:before,
+#customize-control-header_logo_type:before,
+#customize-control-header_contact_state:before,
+#customize-control-share_twitter_state:before,
+#customize-control-share_design:before,
+#customize-control-twitter_id:before,
+#customize-control-follow_color:before,
+#customize-control-blockquote_type:before,
+#customize-control-blockquote_color:before,
+#customize-control-balloon_type:before,
+#customize-control-balloon_image_1:before,
+#customize-control-box1_bg_color:before,
+#customize-control-box2_bg_color:before,
+#customize-control-box3_bg_color:before,
+#customize-control-box4_bg_color:before,
+#customize-control-box5_bg_color:before,
+#customize-control-box6_bg_color:before,
+#customize-control-box7_bg_color:before,
+#customize-control-box8_bg_color:before,
+#customize-control-box9_stripe_a_color:before,
+#customize-control-box10_bg_color:before,
+#customize-control-box11_bg_color:before,
+#customize-control-box12_border_color:before,
+#customize-control-box13_border_color:before,
+#customize-control-front_items_1_img:before,
+#customize-control-front_items_2_img:before,
+#customize-control-front_items_3_img:before,
+#customize-control-news_state:before,
+#customize-control-news_color:before,
+#customize-control-pubdate_icon:before,
+#customize-control-date_font_family:before,
+#customize-control-cta_color:before,
+#customize-control-cta_btn_txt:before {
+	display: block;
+	margin: 1em 0;
+	padding: 0 0 1em;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	border-bottom: 1px solid #ccc;
+}
+#customize-control-front_main_visual_img:before {content: "画像1枚目";}
+#customize-control-front_main_visual_img_2:before {content: "画像2枚目";}
+#customize-control-front_main_visual_img_3:before {content: "画像3枚目";}
+#customize-control-front_main_visual_img_4:before {content: "画像4枚目";}
+#customize-control-front_main_visual_img_5:before {content: "画像5枚目";}
+#customize-control-site_icon:before {content: "ファビコン設定";}
+#customize-control-cat_design:before {content: "デザイン設定";}
+#customize-control-cat_color:before {content: "色設定";}
+#customize-control-tag_design:before {content: "デザイン設定";}
+#customize-control-tag_color:before {content: "色設定";}
+#customize-control-h2_type:before {content: "デザイン設定";}
+#customize-control-heading_color:before {content: "色設定";}
+#customize-control-header_position_type:before {content: "レイアウト設定";}
+#customize-control-header_logo_type:before {content: "ロゴ設定";}
+#customize-control-header_contact_state:before {content: "お問い合わせ設定";}
+#customize-control-share_twitter_state:before {content: "サービス選択設定";}
+#customize-control-share_design:before {content: "デザイン設定";}
+#customize-control-twitter_id:before {content: "連携サービス設定";}
+#customize-control-follow_color:before {content: "デザイン設定";}
+#customize-control-blockquote_type:before {content: "デザイン設定";}
+#customize-control-blockquote_color:before {content: "色設定";}
+#customize-control-balloon_type:before {content: "デザイン設定";}
+#customize-control-balloon_image_1:before {content: "画像プリセット";}
+#customize-control-box1_bg_color:before {content: "実線で囲い";}
+#customize-control-box2_bg_color:before {content: "点線で囲い";}
+#customize-control-box3_bg_color:before {content: "二重線で囲い";}
+#customize-control-box4_bg_color:before {content: "上下に線";}
+#customize-control-box5_bg_color:before {content: "左右に線";}
+#customize-control-box6_bg_color:before {content: "上に線";}
+#customize-control-box7_bg_color:before {content: "左に線";}
+#customize-control-box8_bg_color:before {content: "背景色のみ";}
+#customize-control-box9_stripe_a_color:before {content: "ストライプ";}
+#customize-control-box10_bg_color:before {content: "折り返し";}
+#customize-control-box11_bg_color:before {content: "ステッチ";}
+#customize-control-box12_border_color:before {content: "交差線";}
+#customize-control-box13_border_color:before {content: "カギカッコ";}
+#customize-control-front_items_1_img:before {content: "アイテム①";}
+#customize-control-front_items_2_img:before {content: "アイテム②";}
+#customize-control-front_items_3_img:before {content: "アイテム③";}
+#customize-control-news_state:before {content: "コンテンツ設定";}
+#customize-control-news_color:before {content: "色設定";}
+#customize-control-pubdate_icon:before {content: "アイコン設定";}
+#customize-control-date_font_family:before {content: "フォント設定";}
+#customize-control-cta_color:before {content: "色設定";}
+#customize-control-cta_btn_txt:before {content: "ボタン設定";}
+
+
+#customize-control-related_cat_state .customize-inside-control-row,
+#customize-control-related_date_state .customize-inside-control-row,
+#customize-control-related_slider_state .customize-inside-control-row,
+#customize-control-author_info_avatar_state .customize-inside-control-row,
+#customize-control-author_posts_cat_state .customize-inside-control-row,
+#customize-control-author_posts_date_state .customize-inside-control-row,
+#customize-control-post_eyecatch_state .customize-inside-control-row,
+#customize-control-post_breadcrumbs_state .customize-inside-control-row,
+#customize-control-post_toc_state .customize-inside-control-row,
+#customize-control-post_cat_state .customize-inside-control-row,
+#customize-control-post_author_state .customize-inside-control-row,
+#customize-control-post_share_fixed_state .customize-inside-control-row,
+#customize-control-blockquote_font_style .customize-inside-control-row,
+#customize-control-blockquote_shadow .customize-inside-control-row,
+#customize-control-news_state .customize-inside-control-row,
+#customize-control-carousel_state .customize-inside-control-row,
+#customize-control-front_eyecatch_state .customize-inside-control-row,
+#customize-control-front_desc_state .customize-inside-control-row,
+#customize-control-archive_breadcrumbs_state .customize-inside-control-row,
+#customize-control-archive_eyecatch_state .customize-inside-control-row,
+#customize-control-archive_desc_state .customize-inside-control-row,
+#customize-control-box1_border_width .customize-inside-control-row,
+#customize-control-box1_border_radius .customize-inside-control-row,
+#customize-control-box1_shadow .customize-inside-control-row,
+#customize-control-box2_border_width .customize-inside-control-row,
+#customize-control-box2_border_radius .customize-inside-control-row,
+#customize-control-box2_shadow .customize-inside-control-row,
+#customize-control-box3_border_width .customize-inside-control-row,
+#customize-control-box3_border_radius .customize-inside-control-row,
+#customize-control-box3_shadow .customize-inside-control-row,
+#customize-control-box4_border_width .customize-inside-control-row,
+#customize-control-box4_shadow .customize-inside-control-row,
+#customize-control-box5_border_width .customize-inside-control-row,
+#customize-control-box5_shadow .customize-inside-control-row,
+#customize-control-box6_border_width .customize-inside-control-row,
+#customize-control-box6_shadow .customize-inside-control-row,
+#customize-control-box7_border_width .customize-inside-control-row,
+#customize-control-box7_shadow .customize-inside-control-row,
+#customize-control-box8_border_radius .customize-inside-control-row,
+#customize-control-box8_shadow .customize-inside-control-row,
+#customize-control-box9_border_radius .customize-inside-control-row,
+#customize-control-box9_shadow .customize-inside-control-row,
+#customize-control-box11_border_width .customize-inside-control-row,
+#customize-control-box11_border_radius .customize-inside-control-row
+{
+	display: inline-block;
+}
+
+
+
+
+
+
+
+.customize-control .customize-inside-control-row {
+	padding: 2px 0 !important;
+}
+.customize-control .customize-inside-control-row label {
+
+}
+.customize-control-title {
+	font-size: 13px !important;
+}
+#customize-controls .description,
+#customize-control-site_icon .customize-control-description {
+	font-size: 11px !important;
+	font-style: normal !important;
+}
+#customize-control-site_icon .customize-control-description p {
+	margin: 0 !important;
+	font-size: 11px !important;
+	font-style: normal !important;
+}
+li#customize-control-header_site_description_state span.customize-inside-control-row,
+li#customize-control-front_main_visual_state span.customize-inside-control-row,
+li#customize-control-front_pickup_slider_state span.customize-inside-control-row,
+li#customize-control-front_description_state span.customize-inside-control-row,
+li#customize-control-front_cat_state span.customize-inside-control-row,
+li#customize-control-front_new_mark_state span.customize-inside-control-row,
+li#customize-control-front_date_state span.customize-inside-control-row,
+li#customize-control-front_author_state span.customize-inside-control-row,
+li#customize-control-archive_description_state span.customize-inside-control-row,
+li#customize-control-archive_cat_state span.customize-inside-control-row,
+li#customize-control-archive_new_mark_state span.customize-inside-control-row,
+li#customize-control-archive_date_state span.customize-inside-control-row,
+li#customize-control-archive_author_state span.customize-inside-control-row,
+/* 投稿ページ */
+li#customize-control-post_cat_state span.customize-inside-control-row,
+li#customize-control-post_author_state span.customize-inside-control-row,
+li#customize-control-post_follow_state span.customize-inside-control-row,
+li#customize-control-post_author_info_state span.customize-inside-control-row,
+li#customize-control-post_author_posts_state span.customize-inside-control-row,
+li#customize-control-post_cta_state span.customize-inside-control-row,
+li#customize-control-post_related_state span.customize-inside-control-row,
+/* 固定ページ */
+li#customize-control-post_sns_follow_state span.customize-inside-control-row,
+li#customize-control-page_author_state span.customize-inside-control-row,
+li#customize-control-page_date_state span.customize-inside-control-row,
+li#customize-control-page_sns_follow_state span.customize-inside-control-row,
+li#customize-control-not_found_image_state span.customize-inside-control-row {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+li#customize-control-contact_form_admin_email:after {
+	display: block;
+	margin: 1.5em 0 0;
+	font-size: 13px;
+	font-weight: 600;
+	line-height: 24px;
+	content: "フォーム項目";
+}
+li#customize-control-contact_form_name_state,
+li#customize-control-contact_form_name_kana_state,
+li#customize-control-contact_form_email_state,
+li#customize-control-contact_form_tel_state,
+li#customize-control-contact_form_fax_state,
+li#customize-control-contact_form_url_state,
+li#customize-control-contact_form_textarea_state
+{
+	clear: both;
+	display: inline-block;
+	margin: 0 1em 0 0;
+	width: 60%;
+}
+li#customize-control-contact_form_name_required,
+li#customize-control-contact_form_name_kana_required,
+li#customize-control-contact_form_email_required,
+li#customize-control-contact_form_tel_required,
+li#customize-control-contact_form_fax_required,
+li#customize-control-contact_form_url_required,
+li#customize-control-contact_form_textarea_required
+{
+	clear: none;
+	display: inline-block;
+	width: auto;
+}
+
+@media screen and (max-width: 782px) {
+body:not(.plugins-php) .row-actions {
+	display: block !important;
+}
+
+}
+
+
+

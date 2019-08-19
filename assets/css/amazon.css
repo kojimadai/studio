@@ -1,0 +1,112 @@
+.amazon_item {
+	position: relative;
+	display: block;
+	margin: .5em 0 1em 0;
+	padding: 2em 1em;
+	font-size: .875em;
+	color: #333;
+}
+.amazon_item a {
+	display: inline-block;
+	text-decoration: none;
+}
+.amazon_item a:hover {
+
+}
+.amazon_item * {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.amazon_item .amazon_indicator {
+  margin: 0 10px;
+  clear: both;
+}
+.amazon_item .amazon_indicator .amazon_indicator_img {
+  float: left;
+  display: block;
+  width: 32px;
+  height: 32px;
+  background: transparent url(../images/ajax-loader.gif) no-repeat center;
+}
+.amazon_item .amazon_indicator .amazon_indicator_title {
+  display: block;
+  line-height: 32px;
+  margin-left: 42px;
+}
+.amazon_item .amazon_indicator .amazon_indicator_footer {
+  clear: both;
+}
+.amazon_item .amazon_image {
+	float: left;
+	width: 20%;
+	padding: 0 2em 0 0;
+}
+.amazon_item .amazon_image a {
+	display: inline-block;
+}
+.amazon_item .amazon_image a img {
+	margin: 0;
+	width: 100%;
+	height: auto;
+}
+.amazon_item .amazon_info {
+	float: right;
+	width: 80%;
+}
+.amazon_item .amazon_info .ttl {
+	margin: 0 0 5px;
+	padding: 0;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+.amazon_item .amazon_info ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.amazon_item .amazon_info ul li {
+  list-style: none;
+  line-height: 1.5em;
+  font-size: .875em;
+  margin: 0;
+  padding: 0;
+}
+.amazon_item .amazon_info ul li b {
+  margin-right: .5em;
+  color: #555;
+  font-weight: normal;
+}
+.amazon_item .amazon_info .amazon_price {
+  color: #900;
+}
+.amazon_item .amazon_info .amazon_price span {
+  color: #666;
+  margin-left: .5em;
+}
+.amazon_item .amazon_info .amazon_listprice {
+  text-decoration: line-through;
+}
+.amazon_item .amazon_review {
+  padding: 0;
+  font-size: 0.7em;
+  position: absolute;
+  right: 34px;
+  bottom: 4px;
+}
+#preview .amazon_item .amazon_review {
+  display: none;
+}
+.amazon_item .amazon_footer {
+  clear: both;
+}
+
+.amazon_book .amazon_info ul,
+.amazon_music .amazon_info ul {
+  margin-top: 0.5em;
+}
+
+.amazon_book .amazon_info ul li,
+.amazon_music .amazon_info ul li {
+  line-height: 1.6em;
+}
